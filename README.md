@@ -21,7 +21,7 @@ Descripció         | Imatge          | STL
 Suport bola|![ballcaster-v2.stl](Imatges/ballcaster-v2.png) | [ballcaster-v2.stl](STL/ballcaster-v2.stl)  
 Suport piles|![battery-bracket.stl](Imatges/battery-bracket.png) | [battery-bracket.stl](STL/battery-bracket.stl)  
 Suport motors|![MotorBracket.stl](Imatges/MotorBracket.png) | [MotorBracket.stl](STL/MotorBracket.stl)  
-Suport PCB|![board-bracket.stl](Imatges/board-bracket.png) | [board-bracket.stl](STL/board-bracket.stl)  
+Suport PCB|![board-bracket.stl](Imatges/CPU.png) | [board-bracket.stl](STL/cpu-2_10-bracket.stl)  
 Roda esquerra|![wheel-l.stl](Imatges/wheel-l.png) | [wheel-l.stl](STL/wheel-l.stl)  
 Roda dreta|![wheel-r.stl](Imatges/wheel-r.png) | [wheel-r.stl](STL/wheel-r.stl)  
   
@@ -30,7 +30,6 @@ Roda dreta|![wheel-r.stl](Imatges/wheel-r.png) | [wheel-r.stl](STL/wheel-r.stl)
 Descripció         | Imatge          | STL          
 ------------- | ------------- | ------------- 
 Afegit per Bateria|![battery-bracket.stl](Imatges/Afegit.jpg) | [battery-bracket.stl](STL/battery-bracket.stl)  
-
 Suport Bateria|![battery-bracket.stl](Imatges/battery-bracket.png) | [battery-bracket.stl](STL/battery-bracket.stl)  
 
 ## QR
