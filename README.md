@@ -31,8 +31,8 @@ Roda dreta|![](Imatges/wheel-r.png) | [Roda dreta](STL/wheel-r.stl)
   
 Descripció         | Imatge          | STL          
 ------------- | ------------- | ------------- 
-Afegit per Bateria|![](Imatges/Afegit.jpg) | [Afegit bateria](STL/battery-bracket.stl)  
-Suport Bateria|![](Imatges/battery-bracket.png) | [Suport bateria](STL/battery-bracket.stl)  
+Afegit per Bateria|![](Imatges/Afegit.jpg) | [Afegit bateria](STL/TopeBateria9V.stl)  
+Suport Bateria|![](Imatges/SuportBateria.jpg) | [Suport bateria](STL/BatteryBallcaster2.stl)  
 
 ## QR
 
