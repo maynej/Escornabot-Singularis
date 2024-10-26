@@ -18,7 +18,7 @@ Material recopilat de [Xoan Sampaiño](https://github.com/xoan), [Rafa Couto](ht
   
 Descripció         | Imatge          | STL         
 ------------- | ------------- | ------------- 
-Suport bola|![ballcaster-v2.stl](Imatges/ballcaster-v2.png) | [Suport bola](STL/ballcaster-v2.stl)  
+Suport bola|![](Imatges/ballcaster-v2.png) | [Suport bola](STL/ballcaster-v2.stl)  
 Suport piles|![battery-bracket.stl](Imatges/battery-bracket.png) | [Suport piles](STL/battery-bracket.stl)  
 Suport motors|![MotorBracket.stl](Imatges/MotorBracket.png) | [Suport Motors](STL/MotorBracket.stl)  
 Suport CPU|![board-bracket.stl](Imatges/CPU.png) | [Suport CPU](STL/cpu-2_10-bracket.stl)  
