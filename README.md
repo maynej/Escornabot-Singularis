@@ -34,7 +34,7 @@ Suport Bateria|![](Imatges/battery-bracket.png) | [Suport bateria](STL/battery-b
 
 ## QR
 
-<img src="https://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fmaynej%2FEscornabot-STEMFIE&s=6&e=m"/>
+<img src="https://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fmaynej%2FEscornabot-Singularis&s=6&e=m"/>
 
 ## Llicència
 
