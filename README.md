@@ -27,7 +27,7 @@ Suport CPU|![](Imatges/CPU.png) | [Suport CPU](STL/cpu-2_10-bracket.stl)
 Roda esquerra|![](Imatges/wheel-l.png) | [Roda esquerra](STL/wheel-l.stl)  
 Roda dreta|![](Imatges/wheel-r.png) | [Roda dreta](STL/wheel-r.stl)  
   
-### Opcións Bateria
+### Opcións Bateria (explicat en el Manual)
   
 Descripció         | Imatge          | STL          
 ------------- | ------------- | ------------- 
