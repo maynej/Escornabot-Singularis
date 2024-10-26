@@ -8,9 +8,11 @@ Escornabot es un projecte obert (https://escornabot.com)
 
 <img src="Imatges/EscornabotSingularis.jpg" width="370" /> <img src="Imatges/EscornabotBateria9V.jpg" width="300" />
 
-Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Escornabot-Singularis/tree/master/DOC/). Inclós en llengua castellana, francés i anglès.
+El [Manual es pot trobar en PDF](https://github.com/maynej/Escornabot-Singularis/tree/master/DOC/). Inclós en llengua castellana, francés i anglès.
 
-STL per imprimir [aquí](https://github.com/maynej/Escornabot-Singularis/tree/master/stl).
+El [funcionament] es pot trobar en PDF](https://github.com/maynej/Escornabot-Singularis/tree/master/Funcionament/).
+
+STL per imprimir [aquí](https://github.com/maynej/Escornabot-Singularis/tree/master/STL).
 
 Material recopilat de [Xoan Sampaiño](https://github.com/xoan), [Rafa Couto](https://github.com/rafacouto), [XDeSIG](https://github.com/xdesig), [Jorge Lobo Martínez](https://github.com/lobotic) i [mgesteiro](https://github.com/mgesteiro)   
   
