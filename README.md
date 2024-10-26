@@ -38,5 +38,5 @@ Suport Bateria|![](Imatges/battery-bracket.png) | [Suport bateria](STL/battery-b
 
 ## Llicència
 
-Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="ImatgesEscornabot/CC.png" width="100" />
+Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
