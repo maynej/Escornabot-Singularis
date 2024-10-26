@@ -19,18 +19,18 @@ Material recopilat de [Xoan Sampaiño](https://github.com/xoan), [Rafa Couto](ht
 Descripció         | Imatge          | STL         
 ------------- | ------------- | ------------- 
 Suport bola|![](Imatges/ballcaster-v2.png) | [Suport bola](STL/ballcaster-v2.stl)  
-Suport piles|![battery-bracket.stl](Imatges/battery-bracket.png) | [Suport piles](STL/battery-bracket.stl)  
-Suport motors|![MotorBracket.stl](Imatges/MotorBracket.png) | [Suport Motors](STL/MotorBracket.stl)  
-Suport CPU|![board-bracket.stl](Imatges/CPU.png) | [Suport CPU](STL/cpu-2_10-bracket.stl)  
-Roda esquerra|![wheel-l.stl](Imatges/wheel-l.png) | [Roda esquerra](STL/wheel-l.stl)  
-Roda dreta|![wheel-r.stl](Imatges/wheel-r.png) | [Roda dreta](STL/wheel-r.stl)  
+Suport piles|![](Imatges/battery-bracket.png) | [Suport piles](STL/battery-bracket.stl)  
+Suport motors|![](Imatges/MotorBracket.png) | [Suport Motors](STL/MotorBracket.stl)  
+Suport CPU|![](Imatges/CPU.png) | [Suport CPU](STL/cpu-2_10-bracket.stl)  
+Roda esquerra|![](Imatges/wheel-l.png) | [Roda esquerra](STL/wheel-l.stl)  
+Roda dreta|![](Imatges/wheel-r.png) | [Roda dreta](STL/wheel-r.stl)  
   
 ### Opcións Bateria
   
 Descripció         | Imatge          | STL          
 ------------- | ------------- | ------------- 
-Afegit per Bateria|![battery-bracket.stl](Imatges/Afegit.jpg) | [Afegit bateria](STL/battery-bracket.stl)  
-Suport Bateria|![battery-bracket.stl](Imatges/battery-bracket.png) | [Suport bateria](STL/battery-bracket.stl)  
+Afegit per Bateria|![](Imatges/Afegit.jpg) | [Afegit bateria](STL/battery-bracket.stl)  
+Suport Bateria|![](Imatges/battery-bracket.png) | [Suport bateria](STL/battery-bracket.stl)  
 
 ## QR
 
