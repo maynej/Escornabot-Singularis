@@ -6,7 +6,7 @@ Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Stud
 
 Escornabot es un projecte obert (https://escornabot.com) 
 
-<img src="Imatges/EscornabotSingularis.jpg" width="300" /> <img src="Imatges/EscornabotBateria9V.jpg" width="300" />
+<img src="Imatges/EscornabotSingularis.jpg" width="305" /> <img src="Imatges/EscornabotBateria9V.jpg" width="300" />
 
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Escorna-Singularis/tree/master/Doc/). Inclós en llengua castellana.
 
