@@ -10,7 +10,7 @@ Escornabot es un projecte obert (https://escornabot.com)
 
 El [Manual es pot trobar en PDF](https://github.com/maynej/Escornabot-Singularis/tree/master/DOC/). Inclós en llengua castellana, francés i anglès.
 
-El [funcionament] es pot trobar en PDF (https://github.com/maynej/Escornabot-Singularis/tree/master/Funcionament/).
+El [funcionament es pot trobar en PDF] (https://github.com/maynej/Escornabot-Singularis/tree/master/Funcionament/).
 
 STL per imprimir [aquí](https://github.com/maynej/Escornabot-Singularis/tree/master/STL).
 
