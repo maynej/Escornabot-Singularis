@@ -12,7 +12,7 @@ El [Manual es pot trobar en PDF](https://github.com/maynej/Escornabot-Singularis
 
 El [Funcionament del firmware es pot trobar en PDF](https://github.com/maynej/Escornabot-Singularis/tree/master/Funcionament/).
 
-També es pot programar amb Arduinoblocks <img src="Imatges/Arduinoblocks.jpg" width="50" />
+També es pot programar amb Arduinoblocks <img src="Imatges/Arduinoblocks.jpg" width="100" />
 de mans de [Manuel Hidalgo](https://github.com/maynej/Escornabot-Singularis/tree/master/Arduinoblocks/). 
 
 STL per imprimir [aquí](https://github.com/maynej/Escornabot-Singularis/tree/master/STL).
